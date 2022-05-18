@@ -12,26 +12,38 @@
 
 ---
 
-## 🛠 Languages and Tools:
+<h3 align="left">⛏ Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
+<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>  
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+<a href="https://www.java.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
+<a href="https://vscode.dev/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> </a> 
 
-<img align="left" height="32px" width="32px" alt="C logo" src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png">
-<img align="left" height="32px" width="32px" alt="C++ logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png">
-<img align="left" height="32px" width="72px" alt="SQL logo" src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png">
-<img align="left" height="32px" width="32px" alt="HTML logo" src="https://bit.ly/3gP4Qgx">
-<img align="left" height="32px" width="32px" alt="CSS logo" src="https://bit.ly/37iML7j">
-<img align="left" height="32px" width="32px" alt="JS logo" src="https://bit.ly/3r1kzxY">
-<img align="left" height="32px" width="32px" alt="Node.js logo" src="https://bit.ly/3rw9m8C">
-<img align="left" height="32px" width="32px" alt="Python logo" src="https://bit.ly/3nk4bGw">
-<img align="left" height="32px" width="32px" alt="VS Сode logo" src="https://bit.ly/3qZmQcU">
-<img align="left" height="32px" width="32px" alt="Git logo" src="https://bit.ly/34ayuYn">
-<img align="left" height="32px" width="50px" alt="GitHub logo" src="https://i.ibb.co/pKq7CXS/download-removebg-preview.png">
-
-<br/>
-<br/>
-
-## 📲 Connect with me :
-<p align="left">
-  <a href="https://github.com/MDNOWFAL6121"><img alt="GitHub" title="GitHub" height="28" width="28" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/github.svg"></a>&nbsp;
-  <a href="https://www.linkedin.com/in/mohamednowfal09/"><img alt="LinkedIn" title="LinkedIn" height="28" width="28" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg"></a>&nbsp;
-  <a href = "mailto:mohamednowfal.ct19@bitsathy.ac.in"><img alt="gmail" title="gmail" height="26" width="28" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png"></a>&nbsp;
 </p>
+
+<h3 align="left">📱 Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/mohamednowfal09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamednowfal09" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/md_nowfal21" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="naveen_218" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/NOWFAL192CT121" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="NOWFAL192CT121" height="30" width="40" /></a>
+<a href="https://devfolio.co/@MD_NOWFAL786" target="blank"><img align="center" src="https://avatars.githubusercontent.com/u/38809367?s=200&v=4" alt="MD_NOWFAL786" height="30" width="30" /></a>
+</p>
+
+<p>&nbsp;
+<h3 align="left">📈 Github Stats :</h3>
+
+<div align="center">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=MDNOWFAL6121&show_icons=true&locale=en" alt="MDNOWFAL6121" /></p>
+    
+</div>
+  
+<div align="center"></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MDNOWFAL6121&" alt="MDNOWFAL6121" /></p>
