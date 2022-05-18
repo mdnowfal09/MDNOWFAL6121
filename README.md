@@ -25,5 +25,5 @@
 <p align="left">
   <a href="https://github.com/MDNOWFAL6121"><img alt="GitHub" title="GitHub" height="28" width="28" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/github.svg"></a>&nbsp;
   <a href="https://www.linkedin.com/in/mohamednowfal09/"><img alt="LinkedIn" title="LinkedIn" height="28" width="28" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg"></a>&nbsp;
-  <a href = "mailto:mohamednowfal.ct19@bitsathy.ac.in"><img alt="gmail" title="gmail" height="26" width="28" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png"></a>&nbsp;
+  <a href="mailto:shrihari689@gmail.com">![shrihari689@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
 </p>
