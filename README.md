@@ -40,10 +40,10 @@
 <h3 align="left">📈 Github Stats :</h3>
 
 <div align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=MDNOWFAL6121&show_icons=true&locale=en" alt="MDNOWFAL6121" /></p>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=mdnowfal09&show_icons=true&locale=en" alt="mdnowfal09" /></p>
     
 </div>
   
 <div align="center"></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MDNOWFAL6121&" alt="MDNOWFAL6121" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mdnowfal09&" alt="mdnowfal09" /></p>
