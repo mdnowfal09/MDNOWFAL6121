@@ -31,7 +31,7 @@
 <h3 align="left">📱 Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/mohamednowfal09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamednowfal09" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/md_nowfal21" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="naveen_218" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/md_nowfal21" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="md_nowfal21" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/NOWFAL192CT121" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="NOWFAL192CT121" height="30" width="40" /></a>
 <a href="https://devfolio.co/@MD_NOWFAL786" target="blank"><img align="center" src="https://avatars.githubusercontent.com/u/38809367?s=200&v=4" alt="MD_NOWFAL786" height="30" width="30" /></a>
 </p>
